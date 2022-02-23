@@ -1,0 +1,6 @@
+framework module Pods_Test_MVVM_Arct {
+  umbrella header "Pods-Test_MVVM_Arct-umbrella.h"
+
+  export *
+  module * { export * }
+}
